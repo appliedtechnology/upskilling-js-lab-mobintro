@@ -1,7 +1,7 @@
 const assert = require('assert');
 
-describe("fizzbuzzing a single number", () => {
-  it('fizz buzz 1 should give "1"', () => {
+describe("single number", () => {
+  it('1 should give "1"', () => {
     // arrange
     const fizzBuzzer = require('.');
 
