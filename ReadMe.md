@@ -35,3 +35,24 @@ You can [read more about the conversion here](https://starwars.fandom.com/wiki/0
 1. Use a big screen when seated together
 1. Follow the mob rules strictly (5 minutes iterations)
 1. Use LiveShare for remote access
+
+## Instructions
+
+Send this to the participants a few days before the workshop starts
+
+```markdown
+Hello everyone,
+
+Looking forward to meet you all for the mob programming workshop. I can honestly tell you that mob programming is the most powerful tool I have used in my 25+ year career. It emphasis learning, quality and team work. And hey - it's fun too!
+
+During the day we will learn in a hands-on way, so for that reason I ask you all to do the following, if it's not done already:
+
+- Have an editor/IDE where you can run JavaScript code (I'm using Visual Studio Code, <https://code.visualstudio.com/download>, but use whatever you like. I hear IntelliJ is great :))
+- Ensure that this IDE have a collaboration capability that everyone in the team can use. (Again, for VS Code that is LiveShare <https://code.visualstudio.com/learn/collaboration/live-share>, but use what you want)
+- Install Node <https://nodejs.org/en/download/>, since we are going to run JavaScript in Node
+- Verify that you can reach this repository; <https://github.com/appliedtechnology/upskilling-js-lab-mobintro>
+
+Once you have all of that done, you should be ready for the mob programming workshop.
+
+Looking forward to see you there!
+```
