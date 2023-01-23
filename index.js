@@ -1,6 +1,11 @@
-function single(number) {
+
+function getEarthYear(starWarsYear) {
   return '';
 }
 
+function getStarWarsYear(earthYear) {
+  return '';
+}
 
-module.exports.single = single;
+module.exports.getEarthYear = getEarthYear;
+module.exports.getStarWarsYear = getStarWarsYear;
